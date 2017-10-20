@@ -1,6 +1,6 @@
 {
-  "name": "any-db-mssql",
-  "version": "0.1.0",
+  "name": "@immoweb/any-db-mssql",
+  "version": "1.0.0",
   "description": "The MSSQL adapter for any-db",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypermediaisobar-admin/node-any-db-mssql.git"
+    "url": "git+https://github.com/immoweb/node-any-db-mssql.git"
   },
   "bugs": {
-    "url": "https://github.com/Hypermediaisobar-admin/node-any-db-mssql/issues"
+    "url": "https://github.com/immoweb/node-any-db-mssql/issues"
   },
   "keywords": [
     "any-db",
@@ -19,7 +19,7 @@
     "mssql",
     "adapter"
   ],
-  "author": "Marcin Konicki <ahwayakchih@gmail.com>",
+  "author": "Josep Mateu Clemente <jmateu.clemente@gmail.com>",
   "license": "BSD-3-Clause",
   "dependencies": {
     "tedious": "^1.6.0"
